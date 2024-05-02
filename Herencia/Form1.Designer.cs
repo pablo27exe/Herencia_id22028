@@ -130,6 +130,7 @@
             this.valor1.Name = "valor1";
             this.valor1.Size = new System.Drawing.Size(220, 36);
             this.valor1.TabIndex = 8;
+            this.valor1.TextChanged += new System.EventHandler(this.valor1_TextChanged);
             // 
             // valor2
             // 

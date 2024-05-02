@@ -51,5 +51,10 @@ namespace Herencia
         {
 
         }
+
+        private void valor1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
