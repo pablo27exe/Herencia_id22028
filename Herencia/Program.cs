@@ -17,7 +17,7 @@ namespace Herencia
             protected           int             valor1;
             protected           int             valor2;
             protected           int             resultado;
-
+           
         }
         /// <summary>
         /// Punto de entrada principal para la aplicación.
@@ -27,7 +27,7 @@ namespace Herencia
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1());
         }
     }
 }
